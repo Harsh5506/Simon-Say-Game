@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, #1e3c72, #2a5298);
+    /* color: #ffffff;  */
+    color: #ffcc00;
+    /* color: #ff3366; */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 120px;
+    width: 120px;
+    border: 8px solid black;
+    margin: 1.5rem;
+    border-radius: 20%;
+}
+.red{
+    background-color: #B8001F;
+}
+.yellow{
+    background-color: #FFEB00;
+}
+.green{
+    background-color: #6EC207;
+}
+.blue{
+    background-color: #4379F2;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: ghostwhite;
+}
+.over{
+    background-color: red;
+}
+
+
