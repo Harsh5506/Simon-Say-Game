@@ -1,4 +1,5 @@
 #Simon Say Game
+
 "Simon Says is a classic memory and pattern recognition game that tests players'
 ability to follow sequences. The game consists of four colored buttons (red, blue,
 green, and yellow) that light up in a specific order. Players must repeat the sequence 
